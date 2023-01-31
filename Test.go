@@ -1,4 +1,8 @@
-Golang code here. modifiedddd
-add
-tow
-Third
+package main
+
+import "fmt"
+
+func main() {
+ fmt.Println("hello world")
+ // comment
+}
