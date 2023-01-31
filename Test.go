@@ -1,4 +1,8 @@
-Golang code here. modified
-add
-tow
-Third
+package main
+
+import "fmt"
+
+func main() {
+ fmt.Println("hello world")
+ // comment
+}
